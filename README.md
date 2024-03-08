@@ -46,7 +46,7 @@ The dataset structure is similar to Ref. [2] In fact, the dataset1 in this repos
 # Related publication
 
 This dataset is used in the below paper. Please cite the below paper when you use this dataset repository.
-**R. Parashar and R. Parasuraman, "Particle Filter Based Localization of Access Points Using Direction of Arrival on Mobile Robots". In Vehicular Technology Conference VTC-Fall 2020.** CAVVTC Workshop: https://cavvtc.weebly.com/program.html
+**Parashar, Ravi, and Ramviyas Parasuraman. "Particle filter based localization of access points using direction of arrival on mobile robots." 2020 IEEE 92nd Vehicular Technology Conference (VTC2020-Fall). IEEE, 2020.**
 
 # References
 
